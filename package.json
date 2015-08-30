@@ -1,0 +1,14 @@
+{
+  "name": "@bmullan91/nyan-logger",
+  "version": "1.0.0",
+  "description": "Simple logger example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Brian Mullan <bmullan91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nyansole": "^0.5.1"
+  }
+}
